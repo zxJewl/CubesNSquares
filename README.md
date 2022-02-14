@@ -1,5 +1,5 @@
 # CubesNSquares
-a simple puzzle game revolving around speed.
+A simple puzzle game revolving around speed.
 
 Cubes and squares is a simple puzzle game about speed.
 Unfortunate Cube is looking for more cubes to add to his collection but they have been locked inside room and the only way to get them is to complete puzzles.
